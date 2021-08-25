@@ -5,5 +5,4 @@ namespace PieShop.Shared
         Employee,
         Customer
     }
-
 }
